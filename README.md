@@ -1,5 +1,7 @@
 # Capability-Derived Lifetimes
 
+[Read the dissertation](https://github.com/bencole12345/CapabilityDerivedLifetimes/blob/main/Capability%20Derived%20Lifetimes.pdf)
+
 This document describes the artefacts I produced for my Master's work on *capability-derived lifetimes*, and how to reproduce them.
 
 ## List of artefacts
